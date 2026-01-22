@@ -2,7 +2,7 @@
 Welcome to my GitHub profile! I am Rakesh.
 
 ## About Me:
-I am a passionate cyber security enthusiast currently pursuing my 4th year of engineering. My fascination with technology and security drives my commitment to protecting data and ensuring the safety of information systems. Throughout my academic journey, I have gained a strong foundation in network security, threat analysis, and risk management
+I am a passionate cybersecurity enthusiast and a B.Tech graduate with a strong interest in securing systems and protecting digital assets. Through my academic coursework, projects, and hands-on learning, I have developed a solid foundation in network security fundamentals, vulnerability assessment, basic threat analysis, and risk awareness. I am highly motivated to continue learning, apply my skills in real-world environments, and grow as a cybersecurity professional.
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/rakesh-r-s) 
